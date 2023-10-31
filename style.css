@@ -19,3 +19,8 @@ h1 {
     font-size: 20px;
 }
 
+#banner{
+    display: block;
+    margin: 0 auto;
+}
+
